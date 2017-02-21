@@ -1,2 +1,2 @@
-# C-Sharp=Video-Tutorial-Project-Files
+# C-Sharp-Video-Tutorial-Project-Files
 Project files for C# video tutorials on YouTube or other services.
